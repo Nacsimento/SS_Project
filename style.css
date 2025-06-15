@@ -954,7 +954,7 @@ hr {
     }
 
     nav {
-        justify-content: flex-start;
+        justify-content: space-between;
         padding: 24px 16px;
     }
 
