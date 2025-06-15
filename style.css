@@ -13,13 +13,22 @@ html {
 
 nav {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    gap: 42px;
     font-family: "Rubik", sans-serif;
     padding: 36px 36px;
     position: relative;
     z-index: 2;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    gap: 42px;
+}
+
+.Main_logo{
+    width: 120px;
 }
 
 a {
