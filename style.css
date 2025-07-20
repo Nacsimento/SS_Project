@@ -39,6 +39,8 @@ a {
     font-family: "Rubik", sans-serif;
 }
 
+
+
 a:hover {
     transform: translateY(-3px);
     color: rgba(32, 32, 32, 0.906);
@@ -926,6 +928,10 @@ hr {
 
 .f{
     grid-row: 3/5;
+}
+
+.enrollbtn:hover{
+    color: white !important;
 }
 
 .details_contact{
