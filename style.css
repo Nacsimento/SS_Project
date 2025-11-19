@@ -746,7 +746,7 @@ ul li {
 }
 
 .card.expanded .course-details {
- max-height: 1400px;
+ max-height: 3000px;
     /* Adjust this value depending on the size of the content */
     opacity: 1;
     transform: translateY(0);
